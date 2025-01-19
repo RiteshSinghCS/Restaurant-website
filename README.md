@@ -16,7 +16,7 @@ Welcome to the **Restaurant Website** repository! 🌟 This visually appealing a
 
 ## 🎥 Live Demo
 
-Explore the website live: [🔗 View Now](#) *(Add the live demo link here)*
+Explore the website live: [🔗 View Now](https://riteshsinghcs.github.io/Restaurant-website/)
 
 ![🍴 Website Preview](https://i.postimg.cc/JhgDJxSt/Screenshot-2025-01-19-232313.png)
 
@@ -108,7 +108,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ## ✨ About the Developer
 
 - **Ritesh Kumar Singh**
-- 🌐 LinkedIn: [Connect with me](#)
+- 🌐 LinkedIn: [Connect with me](https://www.linkedin.com/in/riteshkumarsinghcs/)
 - 🌟 Portfolio: [Visit Here](#)
 
 ---

@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d118dc81-e5bc-4b2e-bbf4-afb03dd8908c)# 🍴 Restaurant Website
+# 🍴 Restaurant Website
 
 Welcome to the **Restaurant Website** repository! 🌟 This visually appealing and fully responsive website is designed to showcase a restaurant’s menu, services, and ambiance. Built using **HTML** and **CSS**, it delivers an elegant and seamless user experience on any device.
 

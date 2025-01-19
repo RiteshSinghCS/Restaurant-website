@@ -18,7 +18,7 @@ Welcome to the **Restaurant Website** repository! 🌟 This visually appealing a
 
 Explore the website live: [🔗 View Now](#) *(Add the live demo link here)*
 
-![🍴 Website Preview](#) *(Add a screenshot or GIF of the restaurant website in action)*
+![🍴 Website Preview](https://i.postimg.cc/JhgDJxSt/Screenshot-2025-01-19-232313.png)
 
 ---
 

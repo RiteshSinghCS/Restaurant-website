@@ -38,7 +38,7 @@ Follow these steps to view or modify the website locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/restaurant-website.git
+   git clone https://github.com/RiteshSinghCS/Restaurant-website.git
    ```
 
 2. **Navigate to the project folder:**
